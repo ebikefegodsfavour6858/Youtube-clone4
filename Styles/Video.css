@@ -85,9 +85,9 @@
       }
     }
 
-    @media (min-width: 615px) and (max-width: 754x) {
+    @media (min-width: 615px) and (max-width: 754px) {
       .main-grid{
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
       }
     }
 
@@ -96,4 +96,5 @@
         grid-template-columns: 1fr 1fr 1fr;
       }
     }
+
 
